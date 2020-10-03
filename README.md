@@ -10,4 +10,4 @@ Membros:
 
 ***Jogo trabalhado pela equipe: Shisima***
 
-link para o Colab: https://colab.research.google.com/drive/1zjeTZuA4tN524cY_6rlEPvd3bjZSHHqk
+link para o Colab: https://colab.research.google.com/drive/1KEuvTWmID8OSBOaVMVKQYYa5WEFKV-pz#scrollTo=4MyvlBxDmSk6
